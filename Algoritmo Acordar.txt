@@ -1,0 +1,12 @@
+Algoritmo "HoraDeAcordar"
+
+Inicio
+	TocarAlarme
+	AbrirOlhos
+	MexerCelular
+	LevantarDaCama
+	EscovarDentes
+	TomarCafé
+	TomarBanho
+	ComecarEstagio
+FimAlgoritmo
